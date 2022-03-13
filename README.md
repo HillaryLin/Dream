@@ -1,4 +1,4 @@
-# Dream
+# The Magic School Bus: On the Ocean Floor
 
 This project aims to teach children understand more about marine organism to protect the marine environment.
 To run the project, you just need to open the EU4 and open floder Dream. Then click FPSProject.uproject to open it.
