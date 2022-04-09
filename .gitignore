@@ -10,7 +10,7 @@
 # Precompiled Headers
 *.gch
 *.pch
-*.uasset
+# *.uasset
 
 # Compiled Dynamic libraries
 *.so
